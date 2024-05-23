@@ -1,0 +1,15 @@
+{
+  "versions" : "Версии",
+  "version_id" : "ID",
+  "version_name" : "Название",
+  "version_status" : "Статус",
+  "version_status_admin" : "Статус администратора",
+  "version_labId" : "ID лаборатории",
+  "version_unl" : "UNL",
+  "version_path": "Путь",
+  "version_md5" : "MD5",
+  "version_time" : "Время",
+  "version_note" : "Примечание",
+  "version_feedback" : "Обратная связь",
+  "version_node_des": "Примечание к выпуску. Инструкции для ваших пользователей по интеграции вашей лаборатории в Box. Этот контент не будет опубликован в магазине."
+}

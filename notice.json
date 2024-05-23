@@ -1,0 +1,16 @@
+{
+  "notice" : "Уведомление",
+  "notice_id" : "ID",
+  "notice_time" : "Время",
+  "notice_uid" : "UID",
+  "notice_uname" : "Имя пользователя",
+  "notice_fire_uid" : "UID отправителя",
+  "notice_fire_uname" : "Имя отправителя",
+  "notice_content" : "Содержание",
+  "notice_variable" : "Переменная",
+  "notice_seen" : "Просмотрено",
+  "notice_level" : "Уровень",
+  "notice_action" : "Действие",
+  "Mark as read": "Отметить как прочитанное",
+  "Read more": "Читать далее"
+}

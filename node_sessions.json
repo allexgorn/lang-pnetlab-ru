@@ -1,0 +1,15 @@
+{
+      "node_sessions": "Таблица узлов",
+      "node_session_id": "ID сеанса",
+      "node_session_nid": "ID узла",
+      "node_session_lab": "Лаборатория",
+      "node_session_port": "Порт",
+      "node_session_type": "Тип",
+      "node_session_workspace": "Папка",
+      "node_session_ram": "ОЗУ (%)",
+      "node_session_cpu": "ЦП (%)",
+      "node_session_hdd": "HDD (МБ)",
+      "node_session_running": "Запущено",
+      "node_name": "Имя узла",
+      "device_ram": "ОЗУ устройства"
+}

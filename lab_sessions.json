@@ -1,9 +1,0 @@
-{
-    "lab_sessions" : "Сеансы",
-    "lab_session_id" : "ID сеанса",
-    "lab_session_lid" : "LID сеанса",
-    "lab_session_pod" : "Хост сеанса",
-    "lab_session_joined" : "Присоединившиеся участники",
-    "lab_session_path" : "Путь к лаборатории сеанса",
-    "lab_session_running": "Запущенные узлы"
-}
